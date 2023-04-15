@@ -39,5 +39,6 @@
   },
   "devDependencies": {
     "json-server": "^0.17.2"
-  }
+  },
+  "proxy" : "https://nahui.onrender.com"
 }
